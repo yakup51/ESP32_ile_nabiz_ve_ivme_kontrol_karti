@@ -1,0 +1,18 @@
+Added Component: Designator=B3(Buzzer 5v)
+Added Component: Designator=J2(CLIFF_FC68131)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Cliff'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FC68131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUZZER Pin=B3-1
+Added Pin To Net: NetName=GND Pin=B3-2
+Added Pin To Net: NetName=LA Pin=J2-1
+Added Pin To Net: NetName=RL Pin=J2-2
+Added Pin To Net: NetName=LA Pin=J2-5
+Added Member To Class: ClassName=YakupTrkn Member=Component B3 Buzzer 5v
+Added Member To Class: ClassName=YakupTrkn1 Member=Component J2 FC68131
+Added Room: Name=YakupTrkn1
+Added Room: Name=YakupTrkn2
+Added Room: Name=YakupTrkn
